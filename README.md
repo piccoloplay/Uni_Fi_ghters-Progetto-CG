@@ -1,4 +1,11 @@
 # Uni_Fi_ghters-Progetto-CG
+![](projectScreen/progettoCGgitHub.png7)
+https://www.youtube.com/watch?v=SDmggzSV9pw
+
+
+
+
+
 Un piccolo ReadMe per muovervi all'interno del progetto.
 Nella folder ProgettoUnty e' presente il progetto..
 Importando il progetto su Unity vi troverete in una scena Basic.
