@@ -1,0 +1,25 @@
+links: 
+https://github.com/Unity-Technologies/ml-agents/releases/tag/0.11.0   // la versione che ho utilizzato nel progetto
+
+
+aprire il promt di anaconda
+******************************
+
+conda create –n ml –agents_0.11.0 python=3.7 // serve a creare l'enviroment anaconda
+conda activate ml-agents_0.11.0              // comando per poter utilizzare i comandi di ml-agents
+******************************
+Cambiare cartella con il comando "cd" dandogli il percorso
+Dove avete messo il source code scaricato precedentemente 
+ed eseguire in ordine i comandi sottostanti
+
+*******************************
+cd ml-agentes-envs 
+pip install -e ./ 
+Premere Invio
+******************************
+cd ..
+cd ml-agents
+Pip install –e ./
+Premere invio
+
+-FINE-
