@@ -16,5 +16,7 @@ Nella folder scene ci sono le varie scene, la HOME, una scena di caricamento asi
 
 Nella Repo E' presente anche una relazione che cerca di spiegare l'idea dietro al progetto ed una Folder SetUpTutorial che fa un piccolo tutorial su come installare e fare il setUp su Unity di "ml-agents".
 
+![](projectScreen/progettoCGgitHub3.png)
+
 
 
