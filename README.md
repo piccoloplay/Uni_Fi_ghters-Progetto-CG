@@ -1,5 +1,5 @@
 # Uni_Fi_ghters-Progetto-CG
-![](projectScreen/progettoCGgitHub.png7)
+![](projectScreen/progettoCGgitHub7.png)
 https://www.youtube.com/watch?v=SDmggzSV9pw
 
 
